@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "Name": "Platform",
+    "Logo": "https://res.cloudinary.com/dev-lynx-corp/image/upload/v1570459328/Original_Mel_Logo_afo9eb.png",
+    "Currency": "Naira",
+    "ConversionRate": 1.0,
+    "Description": "Internal Payment Service",
+    "Type": "Platform"
+  },
+  {
+    "Id": 2,
+    "Name": "Paystack",
+    "Logo": "https://res.cloudinary.com/dev-lynx/image/upload/v1561331203/PaystackLogo.png",
+    "Currency": "Kobo",
+    "ConversionRate": 100.0,
+    "Description": "Payment using Paystack Services",
+    "Type": "Paystack"
+  },
+  {
+    "Id": 3,
+    "Name": "Bank",
+    "Logo": "https://res.cloudinary.com/dev-lynx/image/upload/v1561331239/BankLogo.svg",
+    "Currency": "Naira",
+    "ConversionRate": 1.0,
+    "Description": "Manual Bank Payment",
+    "Type": "Bank"
+  }
+]
